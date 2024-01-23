@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\bin\Debug\net6.0\projekt_programowania.exe
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\bin\Debug\net6.0\projekt_programowania.deps.json
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\bin\Debug\net6.0\projekt_programowania.runtimeconfig.json
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\bin\Debug\net6.0\projekt_programowania.dll
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\bin\Debug\net6.0\projekt_programowania.pdb
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.dll
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\refint\projekt_programowania.dll
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.pdb
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\projekt_programowania.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Pulpit\Studia_wsb\Programowanie komputerów\projekt_programowania\projekt_programowania\obj\Debug\net6.0\ref\projekt_programowania.dll
